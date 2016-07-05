@@ -1,0 +1,15 @@
+-MySQL official website:
+https://www.mysql.com/
+
+-Select community version(MySQL Community Server):
+http://dev.mysql.com/downloads/mysql/
+There are two selections
+1. Recommended Download: MySQL Installer MSI
+  http://dev.mysql.com/doc/refman/5.7/en/mysql-installer.html
+  If LAN(local area network): select Named Pipe
+    (about Named Pipe:http://stackoverflow.com/questions/175579/what-are-named-pipes;
+    https://technet.microsoft.com/en-us/library/aa178138(v=sql.80).aspx;
+    )
+  
+2. Other Downloads:ZIP Archive
+
